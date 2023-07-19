@@ -31,8 +31,8 @@ The Lead Generation Project is a web application built using React, Redux, and M
 ### `git clone <repository name>`
   1. Navigate to the project directory and install dependencies:
 
-### cd lead-generation-project
-### npm install
+### `cd lead-generation-project`
+### `npm install`
 
   2. Start the development server:
 
