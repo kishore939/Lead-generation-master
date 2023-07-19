@@ -10,17 +10,17 @@ The Lead Generation Project is a web application built using React, Redux, and M
 
 
 # Features 
-. User-friendly lead cature form with validation
-. Dashboards to view and manage leads
-. Responsive design for optimal usage on various devices
-. Detailed view of each lead's info
+1. User-friendly lead cature form with validation
+2. Dashboards to view and manage leads
+3. Responsive design for optimal usage on various devices
+4. Detailed view of each lead's info
 
 
 # Technologies Used
-. React-JavaScript library for building user interfaces.
-. Redux: State management library for managing the application's global state.
-. Material UI: Component library for creating sleek and responsive user interfaces.
-. React Rounter: Library for handling routing and navigation in the application.
+1. React-JavaScript library for building user interfaces.
+2. Redux: State management library for managing the application's global state.
+3. Material UI: Component library for creating sleek and responsive user interfaces.
+4. React Rounter: Library for handling routing and navigation in the application.
 
 
 # Installation and Setup
